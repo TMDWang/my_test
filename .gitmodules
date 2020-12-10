@@ -1,0 +1,3 @@
+[submodule "MyStudyLog"]
+	path = MyStudyLog
+	url = git@github.com:TMDWang/MyStudyLog.git
